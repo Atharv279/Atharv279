@@ -69,14 +69,6 @@
 
 ---
 
-## **📝 Blog & Articles**  
-
-📢 **Latest Medium Articles:**  
-![Medium Blog](https://github-readme-medium.vercel.app/latest?username=yourMediumUsername)  
-
-📢 **Latest Dev.to Blogs:**  
-![Dev.to Blog](https://github-readme-devto.vercel.app/latest?username=yourDevtoUsername)  
-
 📢 **Latest Blog Posts from My Website:**  
 ![Personal Blog](https://github-readme-blog.vercel.app/latest?username=yourWebsite)  
 
