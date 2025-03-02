@@ -1,5 +1,5 @@
 # Hi 👋, I'm Atharv Patil  
-## 🔥 AI Engineer | Data Scientist | Trader  
+## 🔥 Aspiring AI Engineer | Data Scientist | Trader  
 
 ### 🚀 About Me:  
 - 🔭 I’m currently working on [RAGify-Finance](https://github.com/Atharv279/RAGify-Finance)  
