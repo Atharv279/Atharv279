@@ -10,7 +10,8 @@
 - 📫 Reach me at **[atharvpatil269@gmail.com](mailto:atharvpatil269@gmail.com)**  
 - 👨‍💻 Check out my projects on **[GitHub](https://github.com/Atharv279)**    
 - 📄 Know about my experiences on **[My Resume](https://github.com/Atharv279/Resume/blob/main/Atharv_AI_ML_Resume.pdf)**  
-- ⚡ Fun fact: ** I talk to my code more than I talk to people... and it still ignores me! 🤣**  
+- ### ⚡ Fun fact  
+**I talk to my code more than I talk to people... and it still ignores me!** 🤣  
 
 ---
 
