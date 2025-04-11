@@ -2,7 +2,7 @@
 ## 🔥 Aspiring AI Engineer | Data Scientist | Trader  
 
 ### 🚀 About Me:  
-- 🔭 I’m currently working on [**DocuMind**](https://github.com/Atharv279/TalentGPT)
+- 🔭 I’m currently working on [**DocuMind**](https://github.com/Atharv279/DocuMind-)
 - 👯 I’m looking to collaborate on AI, ML, and Trading-related projects  
 - 🤝 I’m looking for help with MLOps & Model Deployment  
 - 🌱 I’m currently learning **MLOps, AWS SageMaker, and Deep Learning**  
