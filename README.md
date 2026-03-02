@@ -5,7 +5,7 @@ I specialize in bridging the gap between complex ML models and production-grade 
 
 ---
 
-## 🚀 [Explore My Interactive Portfolio](https://atharv-patil289-portfolio.vercel.app/)
+## 🚀 [Explore My Interactive Portfolio](https://atharv-patil269-portfolio.vercel.app/)
 *(Interactive Bento Grid | Security-Hardened | Spatial UI)*
 
 ---
