@@ -68,19 +68,19 @@
 
 | Project | What It Does | Tech |
 |---------|-------------|------|
-| [**RAGify-Finance**](https://github.com/Atharv279/RAGify-Finance) | Retrieval-Augmented Generation system for financial document Q&A | Python, LangChain, FAISS, Ollama |
-| [**AI_Invoice_Master**](https://github.com/Atharv279/AI_Invoice_Master) | Multi-language invoice data extractor using Google Gemini vision | Python, Streamlit, Gemini API |
-| [**DocuMind**](https://github.com/Atharv279/DocuMind-) | Intelligent PDF document comparison and analysis tool | Python, AI/NLP |
-| [**TalentGPT**](https://github.com/Atharv279/TalentGPT) | AI chatbot that conducts candidate screening and generates interview questions | Python, LLM |
-| [**Task-Extraction-NLP**](https://github.com/Atharv279/Task-Extraction-NLP) | Extracts and categorizes tasks from unstructured text using NLP | Python, NLP, Jupyter |
+| [**RAGify-Finance**](https://github.com/Atharv279/RAGify-Finance) | Benchmarks Cohere vs HuggingFace embeddings for financial document Q&A using RAG | Python, LangChain, FAISS, Cohere, Gemini |
+| [**AI_Invoice_Master**](https://github.com/Atharv279/AI_Invoice_Master) | Multi-language invoice extractor — OCR + Gemini AI for intelligent data extraction | Python, Tesseract, Streamlit, Gemini |
+| [**DocuMind**](https://github.com/Atharv279/DocuMind-) | PDF document comparison with AI-powered change detection and analysis | Python, LangChain, Gemini |
+| [**GemmaQA-DocExplorer**](https://github.com/Atharv279/GemmaQA-DocExplorer) | RAG-powered PDF Q&A using Groq Gemma2-9b and FAISS vector search | Python, Groq, FAISS, Streamlit |
+| [**TalentGPT**](https://github.com/Atharv279/TalentGPT) | Multilingual AI recruiter — conducts technical screening with sentiment analysis | Python, Streamlit, LLM |
+| [**Task-Extraction-NLP**](https://github.com/Atharv279/Task-Extraction-NLP) | Extracts tasks from unstructured text, identifies person/action/deadline using NLP | Python, NLTK, Word2Vec |
 
 #### Computer Vision & Deep Learning
 
 | Project | What It Does | Tech |
 |---------|-------------|------|
-| [**pneumonia-xray-classification**](https://github.com/Atharv279/pneumonia-xray-classification) | Detects pneumonia from chest X-ray images using deep learning | Python, TensorFlow/Keras, CNN |
-| [**CNN-Emotion-Detection**](https://github.com/Atharv279/CNN-Emotion-Detection) | Real-time facial emotion detection system | Python, Keras, OpenCV |
-| [**sign-language-detector**](https://github.com/Atharv279/sign-language-detector) | ML model for Indian Sign Language recognition | Python, ML |
+| [**pneumonia-xray-classification**](https://github.com/Atharv279/pneumonia-xray-classification) | Detects pneumonia from chest X-ray images using CNNs | Python, TensorFlow/Keras, CNN |
+| [**CNN-Emotion-Detection**](https://github.com/Atharv279/CNN-Emotion-Detection) | Classifies 7 facial emotions from FER-2013 dataset (48x48 grayscale) | Python, Keras, OpenCV |
 | [**ai-video-recommendation-system**](https://github.com/Atharv279/ai-video-recommendation-system) | Video recommendation engine with REST API | Python, FastAPI, SQL, ML |
 
 #### Other
