@@ -55,14 +55,14 @@
 
 #### Autonomous Systems (Daily CI/CD — automated commits via GitHub Actions)
 
-| Project | Status | What It Does | Tech |
-|---------|--------|-------------|------|
-| [**ai-research-agent**](https://github.com/Atharv279/ai-research-agent) | ![CI](https://github.com/Atharv279/ai-research-agent/actions/workflows/daily-research.yml/badge.svg) | Searches GitHub daily for new AI repos, analyzes READMEs & tech stacks, generates LLM-powered summaries and comparative reports | Python, Ollama, GitHub API, GitPython |
-| [**daily-experiments**](https://github.com/Atharv279/daily-experiments) | ![CI](https://github.com/Atharv279/daily-experiments/actions/workflows/daily_run.yml/badge.svg) | Pulls real CVEs from NIST NVD, computes threat indices, generates severity dashboards with day-over-day delta tracking | Python, NIST NVD API, Matplotlib |
-| [**automated-bots**](https://github.com/Atharv279/automated-bots) | ![CI](https://github.com/Atharv279/automated-bots/actions/workflows/daily_run.yml/badge.svg) | Algorithmic market signal generator — SMA crossover, RSI, momentum analysis with 4-panel visual dashboards | Python, Matplotlib |
-| [**ml-experiments**](https://github.com/Atharv279/ml-experiments) | ![CI](https://github.com/Atharv279/ml-experiments/actions/workflows/daily_run.yml/badge.svg) | Hyperparameter tuning across 4 ML tasks (churn, fraud, pricing, demand) with loss curves and feature importance tracking | Python, Matplotlib |
-| [**agent-improvement**](https://github.com/Atharv279/agent-improvement) | ![CI](https://github.com/Atharv279/agent-improvement/actions/workflows/daily_run.yml/badge.svg) | Perceive->Reason->Act->Refine decision loop across operational domains with risk scoring and self-correction | Python, Matplotlib |
-| [**ai-agent-lab**](https://github.com/Atharv279/ai-agent-lab) | ![CI](https://github.com/Atharv279/ai-agent-lab/actions/workflows/daily_run.yml/badge.svg) | Multi-agent pipeline simulator (planner->researcher->coder->reviewer->synthesizer) tracking quality, latency, and token usage | Python, Matplotlib |
+| Project | What It Does | Tech |
+|---------|-------------|------|
+| [**ai-research-agent**](https://github.com/Atharv279/ai-research-agent) | Searches GitHub daily for new AI repos, analyzes READMEs & tech stacks, generates LLM-powered summaries and comparative reports | Python, Ollama, GitHub API, GitPython |
+| [**daily-experiments**](https://github.com/Atharv279/daily-experiments) | Pulls real CVEs from NIST NVD, computes threat indices, generates severity dashboards with day-over-day delta tracking | Python, NIST NVD API, Matplotlib |
+| [**automated-bots**](https://github.com/Atharv279/automated-bots) | Algorithmic market signal generator — SMA crossover, RSI, momentum analysis with 4-panel visual dashboards | Python, Matplotlib |
+| [**ml-experiments**](https://github.com/Atharv279/ml-experiments) | Hyperparameter tuning across 4 ML tasks (churn, fraud, pricing, demand) with loss curves and feature importance tracking | Python, Matplotlib |
+| [**agent-improvement**](https://github.com/Atharv279/agent-improvement) | Perceive->Reason->Act->Refine decision loop across operational domains with risk scoring and self-correction | Python, Matplotlib |
+| [**ai-agent-lab**](https://github.com/Atharv279/ai-agent-lab) | Multi-agent pipeline simulator (planner->researcher->coder->reviewer->synthesizer) tracking quality, latency, and token usage | Python, Matplotlib |
 
 #### AI / ML Applications
 
