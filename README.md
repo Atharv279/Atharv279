@@ -104,9 +104,8 @@
 
 <div align="center">
 
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharv279&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharv279&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv279&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atharv279&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
