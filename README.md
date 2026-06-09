@@ -109,3 +109,11 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atharv279&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+
+---
+
+<div align="center">
+  <b>SYSTEM ACCESS LOGS</b><br/>
+  <img src="https://count.getloli.com/get/@Atharv279?theme=odometer" alt="Visitor Count" />
+</div>
