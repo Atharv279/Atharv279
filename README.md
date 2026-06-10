@@ -116,7 +116,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Atharv279&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Atharv279&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 
 </div>
 
@@ -125,12 +125,6 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv279&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharv279/Atharv279/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharv279/Atharv279/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Atharv279/Atharv279/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
