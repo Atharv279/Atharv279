@@ -2,7 +2,11 @@
 
 # Hi, I'm Atharv Patil
 
-**Python Developer | AI/ML Engineer | Building intelligent systems that run autonomously**
+<a href="https://github.com/Atharv279">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Engineer;Building+intelligent+systems+that+run+autonomously;Multi-agent+orchestration+%7C+Local+LLM+inference" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white)](https://atharv-patil269-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-patil-bab53a284)
@@ -107,6 +111,26 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharv279&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atharv279&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Atharv279&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+#### Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv279&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharv279/Atharv279/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharv279/Atharv279/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Atharv279/Atharv279/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
