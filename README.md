@@ -3,7 +3,7 @@
 # Hi, I'm Atharv Patil
 
 <a href="https://github.com/Atharv279">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Engineer;Building+intelligent+systems+that+run+autonomously;MMulti-agent+orchestration+%7C+Local+LLM+inference" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Engineer;Building+intelligent+systems+that+run+autonomously;Multi-agent+orchestration+%7C+Local+LLM+inference" alt="Typing SVG" />
 </a>
 
 <br/>
